@@ -1,5 +1,5 @@
 # Uplift-Her
-Building Inclusive Spaces for Women
+Tagline - Building Inclusive Spaces for Women
 
 ### Problem Statement
 Diversity and Inclusion and social good theme.
