@@ -6,7 +6,7 @@ Diversity and Inclusion and social good theme.
 Building Women only community space that aims in connecting people, and make their life more joyful. Helps in making people aware about mental health, fitness and nutrition.
 
 ### Video 
-https://www.loom.com/share/1fa87138245841f9b8a91e8b009f4c96
+https://youtu.be/-6sKdVT_utI
 
 ### Technologies Used
 HTML
